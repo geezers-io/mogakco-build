@@ -1,0 +1,6 @@
+[submodule "mogakco-front"]
+	path = mogakco-front
+	url = git@github.com:geezers-io/mogakco-front.git
+[submodule "mogakco-back"]
+	path = mogakco-back
+	url = git@github.com:geezers-io/mogakco-back.git
